@@ -1,4 +1,12 @@
-### Hi there 👋
+#### Yo! Did you just just fumble across my profile? 😁
+
+### I'm Techit btw, you can call me Te _(pronounce it like Tay in Taylor)_.
+
+#### I'm a software enthusiast 👨‍💻. I LOVE everything about software and way to solve things.
+- You can take a look at fun projects I did while I'm learning Go and Rust.
+- But you can ask me about Kotlin, Android related stuffs, and web stuffs too. I'll be glad to help! 
+
+🖖 Peace!
 
 <!--
 **techit-ung/techit-ung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
